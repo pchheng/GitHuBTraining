@@ -1,0 +1,7 @@
+
+* Issues (I) and Solutions (S) with Git
+===================================
+
+I. Your branch is ahead of 'origin/master' by 3 commits
+S. git reset --hard origin/master
+
